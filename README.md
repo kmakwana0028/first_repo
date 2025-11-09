@@ -1,2 +1,2 @@
 # first_repo
-First repo for practice
+First repo for the api ci/cd
